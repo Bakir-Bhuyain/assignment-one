@@ -124,23 +124,25 @@
     background-color: rgba(253, 135, 220, 0.535);
 }
 
-.gra{
- background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
- width: 1320px;
-height: 482px;
-position: relative;
-left: 300px;
-top: 120px;
-border-radius: 15px;
-text-align: center;
+.gra {
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    width: 1320px;
+    height: 482px;
+    position: relative;
+    left: 300px;
+    top: 120px;
+    border-radius: 15px;
+    text-align: center;
 }
-.cls{
+
+.cls {
     position: relative;
     font-size: 32px;
     top: 100px;
     font-family: 'Oswald', sans-serif;
 }
-.bon{
+
+.bon {
     color: antiquewhite;
     position: relative;
     top: 200px;
@@ -154,6 +156,76 @@ text-align: center;
     font-family: 'Inter', sans-serif;
     padding: 16px 32px 16px 32px;
 }
-.cric{
-    display:flex ;
+
+.gulu {
+    padding: 100px 0px;
+
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
 }
+
+.pit {
+    align-items: center;
+    position: relative;
+    right: -75px;
+    top: 120px;
+    border: 15px solid #f00;
+    border-radius:50%;
+    width: 364.844px;
+    height: 364.844px;
+
+}
+
+.tx {
+    position: relative;
+    left: 300px;
+    font-size: 24px;
+    top: 200px;
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+}
+.txx{
+    position: relative;
+    font-size: 48px;
+    top: 220px;
+    left: 295px;
+    font-family: 'Merriweather', serif
+}
+.txxt{
+    position: relative;
+    position: relative;
+    font-size: 20px;
+    top: 235px;
+    left: 295px;
+    font-family: 'Merriweather', serif
+}
+.new-year{
+    position: relative;
+    text-align: right;
+    left: 355px;
+    bottom: 190px;
+    font-size: 48px;
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+}
+.year{
+    position: relative;
+    text-align: right;
+    right: 480px;
+    top: 400px;
+    align-items: center;
+}
+.dolor{
+    position: relative;
+    text-align: center;
+    top: 300px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    right: 35px;
+}
+/* .llps{
+    position: relative;
+    right: 200px;
+    font-size: 20px;
+} */
