@@ -171,7 +171,7 @@
     right: -75px;
     top: 120px;
     border: 15px solid #f00;
-    border-radius:50%;
+    border-radius: 50%;
     width: 364.844px;
     height: 364.844px;
 
@@ -185,14 +185,16 @@
     color: #F00;
     font-family: 'Inter', sans-serif;
 }
-.txx{
+
+.txx {
     position: relative;
     font-size: 48px;
     top: 220px;
     left: 295px;
     font-family: 'Merriweather', serif
 }
-.txxt{
+
+.txxt {
     position: relative;
     position: relative;
     font-size: 20px;
@@ -200,7 +202,8 @@
     left: 295px;
     font-family: 'Merriweather', serif
 }
-.new-year{
+
+.new-year {
     position: relative;
     text-align: right;
     left: 355px;
@@ -209,14 +212,16 @@
     color: #F00;
     font-family: 'Inter', sans-serif;
 }
-.year{
+
+.year {
     position: relative;
     text-align: right;
     right: 480px;
     top: 400px;
     align-items: center;
 }
-.dolor{
+
+.dolor {
     position: relative;
     text-align: center;
     top: 300px;
@@ -224,8 +229,40 @@
     font-family: 'Inter', sans-serif;
     right: 35px;
 }
-/* .llps{
+
+.texat {
+    text-align: center;
+}
+
+.mim {
+    color: #070211;
+    padding: 100px 0px 0px 0px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.boro {
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
     position: relative;
-    right: 200px;
+    top: 10px;
+}
+
+.choto {
+    color: rgba(7, 2, 17, 0.60);
+position: relative;
+top: 20px;
+    text-align: center;
+    font-family: Inter;
     font-size: 20px;
-} */
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
