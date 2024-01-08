@@ -11,40 +11,61 @@
 }
 
 .latter-main {
-    background-image:url('/images/rec98.png');
- background-repeat: no-repeat;
-padding: 220px;
-background-position: center;
+    background-image: url('../images/rec98.png');
+    background-repeat: no-repeat;
+    padding: 220px;
+    background-position: center;
 }
-.foi{
+
+.foi {
     font-size: 32px;
-    font-family:'Merriweather', serif;
+    font-family: 'Merriweather', serif;
 }
-.foii{
-    font-family:'Merriweather', serif;
+
+.foii {
+    font-family: 'Merriweather', serif;
     font-size: 72px;
 }
-.sale{
+
+.sale {
     text-align: center;
     margin-top: 60px;
     /* color: #FF0000; */
 }
-.foiii{
+
+.foiii {
     font-size: 88px;
     color: #FF0000;
-    font-family: 'Inter', sans-serif;;
+    font-family: 'Inter', sans-serif;
+    ;
 }
-.tt{
+
+.tt {
     font-size: 24px;
     color: #FF0000;
     font-family: 'Inter', sans-serif;
     margin-top: 20px;
 }
-.cc{
+
+.cc {
     font-size: 48px;
     font-family: 'Inter', sans-serif;
 }
-.newyear{
+
+.newyear {
     text-align: center;
-   margin-top: 49px;
+    margin-top: 49px;
+}
+
+.middle {
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-left: 290px;
+}
+.middle-part{
+    color: white;
 }
