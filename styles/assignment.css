@@ -7,6 +7,9 @@
 #new-year {
     text-align: center;
     color: #e5eaf5;
+    /* width: 1600px;
+height: 7335px;
+flex-shrink: 0; */
 }
 
 .latter-main {
@@ -38,8 +41,9 @@
 
 .sale {
     text-align: center;
-    margin-top: 60px;
+    /* margin-top: 60px; */
     /* color: #FF0000; */
+    margin: 40px 0px 0px 0px;
 }
 
 .foiii {
@@ -47,6 +51,7 @@
     color: #FF0000;
     font-family: 'Inter', sans-serif;
     ;
+    margin: 10px 0px 0px 0px;
 }
 
 .tt {
@@ -64,11 +69,15 @@
 .newyear {
     text-align: center;
     margin-top: 49px;
+    display: flex;
+    margin: 20px 0px 0px 550px;
+
 }
 
 #middle {
     text-align: center;
     color: white;
+     margin:  0px 0px 0px;
 }
 
 .middle-first {
@@ -267,22 +276,41 @@
     font-weight: 500;
     line-height: 32px;
 }
-
-.discount{
-    background-image: url('../images/Rectangle\ 2.png');
+.section0{
+    background-image: url(../images/Rectangle\ 2.png);
     background-repeat: no-repeat;
-    /* border-radius: 16px 0px 16px 16px; */
-    background-position: right;
-    position: relative;
-   
-    /* padding: 100px;
-     */
-margin: 497px 250px 0px 126px;    
-}
-/* .section1{
-    display: flex;
-    justify-content: center;
     align-items: center;
-    text-align: center;
-    border-radius: 15px;
-} */
+    background-position: center;
+    position: relative;
+    top: 250px;
+}
+.gift-box{
+    align-items: center;
+    position: relative;
+    bottom: 200px;
+    left:200px;
+}
+.girl{
+    align-items:center;
+    position: relative;
+    left: 71px;
+    bottom: 443px;
+    /* z-index: -1; */
+    /* width: 429px;
+height: 433px; */
+}
+.disc{
+    align-items: center;
+    position: relative;
+    bottom: 480px;
+    left: 200px;
+   /* background-blend-mode: lighten; */
+   z-index: 1;
+}
+.offers{
+    /* width: 429px;
+height: 433px; */
+text-align: center;
+position: relative;
+top: 100px;
+}
