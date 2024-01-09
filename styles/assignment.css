@@ -383,37 +383,116 @@ height: 433px; */
     align-items: center;
     margin: auto;
 }
-.news{
+
+.news {
     padding: 10% 0 5% 0;
 }
-.ges{
+
+.ges {
     padding: 5% 0 0 0;
 }
-.news{
- padding: 0 0 40px 0;
- font-size: 48px;
- font-family: 'Merriweather', serif;
+
+.news {
+    padding: 0 0 40px 0;
+    font-size: 48px;
+    font-family: 'Merriweather', serif;
 }
-.dor{
+
+.dor {
     padding: 0 0 22px 0;
     font-size: 20px;
     font-family: 'Inter', sans-serif;
 }
-.user{
+
+.user {
     width: 648px;
-height: 72px;
-border-radius: 40px 0 0 40px;
-font-size: 18px;
-border: none;
-text-align: center;
+    height: 72px;
+    border-radius: 40px 0 0 40px;
+    font-size: 18px;
+    border: none;
+    text-align: center;
 }
-.subb{
+
+.subb {
     width: 210px;
-height: 72px;
-border-radius: 0 40px 40px 0;
-font-size: 20px;
-border: none;
-text-align: center;
-background-color: #F00;
-color: white;
+    height: 72px;
+    border-radius: 0 40px 40px 0;
+    font-size: 20px;
+    border: none;
+    text-align: center;
+    background-color: #F00;
+    color: white;
 }
+
+.foo {
+    width: 2000px;
+    height: 609px;
+    background-color: #070211;
+    background-position: center;
+    color: #FFF;
+    position: relative;
+    top: 120px;
+}
+/* .big{
+    text-align: top;
+    font-size: 24px;
+   margin-top: 140px;
+} */
+.foot{
+    text-align: center;
+    
+}
+.yyyy{
+    position: relative;
+    top: 300px;
+    right: 20px;
+}
+.gggg{
+    position: relative;
+    top: 300px;
+}
+.zzzz{
+    position: relative;
+    top: 300px;
+    left: 20px;
+}
+.mmmm{
+    position: relative;
+    top: 300px;
+    left: 30px;
+}
+.big{
+    position: relative;
+    right: 530px;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+}
+.number{
+    position: relative;
+    left: 620px ;
+    top: 50px;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+}
+.website{
+    position: relative;
+    left: 620px;
+    top: 80px;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+}
+.unsub{
+    position: relative;
+    left:850px;
+    top: 350px;
+  font-size: 27px;
+  font-family: 'Inter', sans-serif;
+}
+.rights{
+    position: relative;
+    right: 550px;
+    top: 450px;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+}
+
